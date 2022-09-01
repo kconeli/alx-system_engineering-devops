@@ -1,1 +1,0 @@
-permisionss by bush scripts
