@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $PATH|head|grep|ls|wc -l
